@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734090911 source:c:\users\msi\desktop\stringtraitement\main.c
+	<stdio.h>
+	<string.h>
+

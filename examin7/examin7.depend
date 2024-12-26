@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735221835 source:c:\users\msi\desktop\examin7\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

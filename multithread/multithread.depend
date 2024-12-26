@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735203342 source:c:\users\msi\desktop\multithread\main.c
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+

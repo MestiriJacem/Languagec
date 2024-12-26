@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735221802 source:c:\users\msi\desktop\examin6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
